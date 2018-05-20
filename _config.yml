@@ -63,8 +63,8 @@ username: OshanIvantha
 repo: ieee-sl-newsletter
 branch: master
 relative_source: ../ieee-sl-newsletter/
-destination: ./docs/
-production_url:  https://jekyller.github.io/jasper2/
+destination: ./_site/
+production_url:  http://ieee.lk/newsletter/
 source_url:  https://github.com/IEEESLSection/ieee-sl-newsletter/
 
 exclude:
