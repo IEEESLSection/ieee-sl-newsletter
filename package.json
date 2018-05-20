@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "IEEE SL Section - Newsletter",
+    "description": "Monthly newsletter published by the IEEE Sri Lanka Section",
     "demo": "https://demo.ghost.io",
     "version": "2.1.9",
     "engines": {
@@ -12,9 +12,9 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "O.I. Mudannayake",
+        "email": "oshan.ivantha@gmail.com",
+        "url": "https://ivantha.me"
     },
     "gpm": {
         "type": "theme",
@@ -29,10 +29,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/IEEESLSection/ieee-sl-newsletter.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
+    "bugs": "https://github.com/IEEESLSection/ieee-sl-newsletter/issues",
+    "contributors": "https://github.com/IEEESLSection/ieee-sl-newsletter/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
