@@ -11,11 +11,66 @@ admin:
 guest:
   username: guest
   name: Guest
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Guest bio!
-  picture: assets/images/hannah.jpg
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
   facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  twitter: False
+  cover: False
+vindula:
+  username: vindula
+  name: Vindula Senanayake
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+saumya:
+  username: saumya
+  name: Saumya Kumarihamy
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+lahiru:
+  username: lahiru
+  name: Lahiru Kavinda Rathnayake
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+hasitha:
+  username: hasitha
+  name: Hasitha Jagoda
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+udari:
+  username: udari
+  name: Udari De Alwis
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False

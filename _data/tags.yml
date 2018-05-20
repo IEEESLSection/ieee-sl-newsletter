@@ -1,7 +1,7 @@
 events:
   name: events
   description: Some of the events held by the sub organizational units of IEEE Sri Lanka Section.
-  cover: assets/images/speeches.jpg
+  cover: assets/images/events.jpg
 cs:
   name: cs
   description: False
