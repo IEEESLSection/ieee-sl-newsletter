@@ -4,7 +4,7 @@ current: post
 cover: assets/images/age-of-innovation.png
 navigation: True
 title: SS12 2018 – Age of Innovation
-date: 2018-05-06 08:00:00
+date: 2018-05-14 08:00:00
 tags: speeches
 class: post-template
 subclass: 'post tag-speeches'

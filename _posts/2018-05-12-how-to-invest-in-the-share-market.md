@@ -4,7 +4,7 @@ current: post
 cover: assets/images/how-to-invest.jpg
 navigation: True
 title: LETs Talk - Episode 02 - How to Invest in the Share Market 
-date: 2018-05-20 08:00:00
+date: 2018-05-12 08:00:00
 tags: events
 class: post-template
 subclass: 'post tag-speeches'
