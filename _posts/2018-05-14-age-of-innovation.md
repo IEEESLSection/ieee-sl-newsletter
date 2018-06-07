@@ -5,7 +5,7 @@ cover: assets/images/age-of-innovation.png
 navigation: True
 title: SS12 2018 – Age of Innovation
 date: 2018-05-14 08:00:00
-tags: speeches
+tags: ieee
 class: post-template
 subclass: 'post tag-speeches'
 author: udari

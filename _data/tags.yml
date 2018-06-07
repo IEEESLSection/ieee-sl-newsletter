@@ -3,6 +3,22 @@ events:
   description: Some of the events held by the sub organizational units of IEEE Sri Lanka Section.
   cover: assets/images/events.jpg
 cs:
-  name: cs
+  name: CS
+  description: False
+  cover: False
+yp:
+  name: YP
+  description: False
+  cover: False
+wie:
+  name: WIE
+  description: False
+  cover: False
+student:
+  name: Student
+  description: False
+  cover: False
+embsm:
+  name: EMBS Student Branch Chapter at University of Moratuwa
   description: False
   cover: False

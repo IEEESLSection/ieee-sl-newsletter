@@ -5,7 +5,7 @@ cover: assets/images/symposium.jpg
 navigation: True
 title: Symposium of the Consortium for Rapid SmartGrid Impacts (CRSGI)
 date: 2018-05-18 08:00:01
-tags: events
+tags: ieee
 class: post-template
 subclass: 'post tag-speeches'
 author: udari

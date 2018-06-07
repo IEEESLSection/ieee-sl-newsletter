@@ -5,7 +5,7 @@ cover: assets/images/venture.jpg
 navigation: True
 title: Dream Venture - Startups for Women
 date: 2018-05-17 08:00:01
-tags: events
+tags: wie
 class: post-template
 subclass: 'post tag-speeches'
 author: guest

@@ -5,7 +5,7 @@ cover: assets/images/region_10.jpg
 navigation: True
 title: IEEE R10 Humanitarian Technology Conference 2018
 date: 2018-05-16 08:00:01
-tags: events
+tags: ieee
 class: post-template
 subclass: 'post tag-speeches'
 author: guest

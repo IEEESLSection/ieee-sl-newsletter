@@ -5,7 +5,7 @@ cover: assets/images/tech-med-impact-forum.jpg
 navigation: True
 title: TechMedImpact Forum
 date: 2018-05-10 08:00:01
-tags: events
+tags: embs
 class: post-template
 subclass: 'post tag-speeches'
 author: lahiru

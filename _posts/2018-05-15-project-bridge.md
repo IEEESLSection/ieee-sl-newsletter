@@ -5,7 +5,7 @@ cover: assets/images/project-bridge.jpg
 navigation: True
 title: Project Bridge
 date: 2018-05-15 08:00:01
-tags: events
+tags: cs
 class: post-template
 subclass: 'post tag-speeches'
 author: vindula

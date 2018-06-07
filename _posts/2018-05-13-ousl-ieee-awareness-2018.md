@@ -5,7 +5,7 @@ cover: assets/images/ousl-awareness-2018.jpg
 navigation: True
 title: OUSL IEEE AWARENESS PROGRAMME 2018
 date: 2018-05-13 08:00:01
-tags: events
+tags: ieee
 class: post-template
 subclass: 'post tag-speeches'
 author: hasitha
