@@ -11,11 +11,22 @@ admin:
 guest:
   username: guest
   name: Guest
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Guest bio!
-  picture: assets/images/hannah.jpg
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
   facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  twitter: False
+  cover: False
+xxxx:
+  username: xxxx
+  name: XXXX XXXX
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
