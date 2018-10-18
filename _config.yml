@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /newsletter/
+baseurl: /newsletter/edition02/
 
 # Website info
 title: IEEE SL Section - Newsletter
@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.png
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: http://ieee.lk/newsletter/
+production_url: http://ieee.lk/newsletter/edition02/
 source_url: https://github.com/IEEESLSection/ieee-sl-newsletter/
 
 # Social info
@@ -64,7 +64,7 @@ repo: ieee-sl-newsletter
 branch: master
 relative_source: ../ieee-sl-newsletter/
 destination: ./_site/
-production_url:  http://ieee.lk/newsletter/
+production_url:  http://ieee.lk/newsletter/edition02/
 source_url:  https://github.com/IEEESLSection/ieee-sl-newsletter/
 
 exclude:
