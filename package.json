@@ -1,5 +1,5 @@
 {
-    "name": "IEEE SL Section - Newsletter",
+    "name": "ieee-sl-newsletter",
     "description": "Monthly newsletter published by the IEEE Sri Lanka Section",
     "demo": "https://demo.ghost.io",
     "version": "2.1.9",
@@ -32,13 +32,15 @@
         "url": "https://github.com/IEEESLSection/ieee-sl-newsletter.git"
     },
     "bugs": "https://github.com/IEEESLSection/ieee-sl-newsletter/issues",
-    "contributors": "https://github.com/IEEESLSection/ieee-sl-newsletter/graphs/contributors",
+    "contributors": [
+        "Oshan Mudannayake"
+    ],
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
         "gulp": "3.9.1",
         "gulp-livereload": "3.8.1",
-        "gulp-nodemon": "2.1.0",
+        "gulp-nodemon": "^2.2.1",
         "gulp-postcss": "6.1.1",
         "gulp-sourcemaps": "1.6.0",
         "gulp-util": "3.0.7",
