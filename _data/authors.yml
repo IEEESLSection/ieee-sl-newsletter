@@ -19,9 +19,9 @@ guest:
   facebook: False
   twitter: False
   cover: False
-xxxx:
-  username: xxxx
-  name: XXXX XXXX
+user:
+  username: user
+  name: Admin
   location: False
   url_full: False
   url: False
