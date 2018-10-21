@@ -2,6 +2,10 @@ events:
   name: events
   description: Some of the events held by the sub organizational units of IEEE Sri Lanka Section.
   cover: assets/images/events.jpg
+ieee:
+  name: IEEE
+  description: False
+  cover: False
 ieeer10:
   name: IEEE R10
   description: False
