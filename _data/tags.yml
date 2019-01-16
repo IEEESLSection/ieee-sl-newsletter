@@ -22,3 +22,31 @@ embsm:
   name: EMBS Student Branch Chapter at University of Moratuwa
   description: False
   cover: False
+rajorg:
+  name: IEEE Student Branch - Rajarata University of Sri Lanka
+  description: False
+  cover: False
+ssorg:
+  name: IEEE SS12 2018
+  description: False
+  cover: False
+iitorg:
+  name: IEEE Student Branch of Informatics Institute of Technology
+  description: False
+  cover: False
+vocorg:
+  name: University of Vocational Technology Student Branch
+  description: False
+  cover: False
+mttorg:
+  name: IEEE MTT-S Student Branch Chapter University of Peradeniya
+  description: False
+  cover: False
+saborg:
+  name: IEEE Student brach of Sabaragamuwa university of Sri Lanka
+  description: False
+  cover: False
+csorg:
+  name: IEEE Computer Society Student Branch Chapter of IIT
+  description: False
+  cover: False

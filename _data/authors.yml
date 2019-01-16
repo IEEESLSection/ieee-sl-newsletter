@@ -19,9 +19,75 @@ guest:
   facebook: False
   twitter: False
   cover: False
-xxxx:
-  username: xxxx
-  name: XXXX XXXX
+nizam:
+  username: nizam
+  name: Fazeela Nizam
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+chanaka:
+  username: chanaka
+  name: Chanaka Hettige
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+sameeha:
+  username: sameeha
+  name: Sameeha Rahman
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+ravindu:
+  username: ravindu
+  name: Ravindu Herath
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+charith:
+  username: charith
+  name: Charith Jayathilake
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+samith:
+  username: samith
+  name: Samith Basnayaka
+  location: False
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+sanduni:
+  username: sanduni
+  name: Sanduni Chamika
   location: False
   url_full: False
   url: False
